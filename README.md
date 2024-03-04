@@ -8,7 +8,6 @@
 
 - Then copy the commands and replace the paranthesis {} with your file path
 
-       mount c: {path to your file}
+      - mount c: {path to your file}
 
-
-       nasm project.asm -o project.com project.com
+      - nasm project.asm -o project.com project.com
