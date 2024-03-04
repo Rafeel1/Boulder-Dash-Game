@@ -4,14 +4,16 @@
 
 ## Compiling-and-executing ##
 
-- Firsty download the .asm file and then open up the dosbox terminal. 
+- Firsty, download the .asm file and then open up the dosbox terminal. 
 
-- Then copy the commands and replace the paranthesis {} with your file path
+- Secondly, copy the commands and replace the paranthesis {} with your file path
 
       mount c: {path to your file}
   
-- Lastly copy the commands and replace the paranthesis {} with your file name to run the code
+- Thirdly, copy the commands and replace the paranthesis {} with your file name
   
-      nasm {project.asm} -o {project.com}<br>
+      nasm {project.asm} -o {project.com}
+
+- Lastly, copy the commands and replace the paranthesis {} with your file name to run the code
 
       {project.com}
