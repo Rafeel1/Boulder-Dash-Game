@@ -12,8 +12,6 @@
   
 - Lastly copy the commands and replace the paranthesis {} with your file name to run the code
   
-      nasm {project.asm} -o {project.com}
-
-
+      nasm {project.asm} -o {project.com}<br>
 
       {project.com}
