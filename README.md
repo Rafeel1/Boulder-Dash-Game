@@ -10,4 +10,5 @@
 
        mount c: {path to your file}
 
+
        nasm project.asm -o project.com project.com
