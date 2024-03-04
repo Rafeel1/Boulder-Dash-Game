@@ -6,7 +6,7 @@
 
 - Firsty download the .asm file and then open up the dosbox terminal. 
 
-*-Then copy the commands and replace the paranthesis {} with your file path
+- Then copy the commands and replace the paranthesis {} with your file path
 
 **mount c: {path to your file}**
 
